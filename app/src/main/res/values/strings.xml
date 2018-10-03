@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Каталог</string>
+    <string name="title_notifications">Корзина</string>
+    <string name="title_profile">Личный кабинет</string>
+    <string name="menu_product">Товары</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string-array name="main_menu_list">
+        <item>List Menu</item>
+        <item>Ваш заказ</item>
+        <item>Confirmation</item>
+    </string-array>
+    <string name="alert">Отсуствует связь с интернетом!</string>
+    <string name="search">Поиск</string>
+    <string name="not_found">Не найдена!</string>
+
+    <string name="number_order">Введите количество (цифру): </string>
+    <string name="order">Order</string>
+    <string name="total_order">Всего:</string>
+    <string name="clear_order">Очистить заказы</string>
+    <string name="clear_all_order">Вы хотите очистить все заказы?</string>
+    <string name="clear_one_order">Вы хотите очистить заказ?</string>
+    <string name="confirm">Подтвердить</string>
+
+    <string name="your_name">Ваше имя</string>
+    <string name="address">Адрес доставки</string>
+    <string name="city">Город</string>
+    <string name="phone_number">Телефон</string>
+    <string name="order_list">Order List</string>
+    <string name="email">Ваш Email</string>
+    <string name="add_comment">Коментарий (Необязательно)</string>
+    <string name="send_reservation">Отправить</string>
+    <string name="form_alert">Please, complete the form first.</string>
+    <string name="order_alert">У вас нет заказов</string>
+    <string name="sending_alert">Sending data. Please wait &#8230;</string>
+    <string name="ok_alert">Your Order has been successfully sent.</string>
+    <string name="failed_alert">Your Order has not been sent.</string>
+    <string name="no_order_menu">Нет заказов</string>
+
+    <string name="success_order">
+		Спасибо за покупку
+	</string>
+
+    <string name="detail">Detail</string>
+    <string name="no_order">Ваша корзина пуста. Сделайте свой первый заказ.</string>
+    <!-- @menu/main -->
+    <string name="more">Страница приложения</string>
+    <string name="rate">Оценить приложение</string>
+    <string name="title_activity_profile">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="no_internet">Please, enable internet connection before using this app</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="db_exist_alert">Вы действительно хотите отменить заказ?</string>
+
+</resources>

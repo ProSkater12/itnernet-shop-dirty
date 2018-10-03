@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="shipping_array">
+        <item>Оплата наличными курьеру</item>
+        <item>Оплата Яндекс.Деньги</item>
+        <item>Qiwi кошелёк</item>
+        <item>Webmoney</item>
+    </string-array>
+
+</resources>
